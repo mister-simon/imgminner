@@ -1,0 +1,19 @@
+{
+  "name": "imgminner",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "min": "bash imgminner.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@9.7.0+sha1.8f12c476122faede7aed9a2126ef551c0dc65d7e",
+  "dependencies": {
+    "imagemin": "^9.0.0",
+    "imagemin-cli": "^8.0.0",
+    "imagemin-mozjpeg": "^10.0.0",
+    "imagemin-pngquant": "^10.0.0",
+    "sharp-cli": "^5.1.0"
+  }
+}
